@@ -18,6 +18,7 @@ test("server-renders the Compression Lab learning journey", async () => {
   assert.match(html, /Shape the dynamics/);
   assert.match(html, /Gray dashed = no compression/);
   assert.match(html, /Orange solid = your output/);
+  assert.match(html, /Load your music/);
   assert.match(html, /Beethoven’s Fifth/);
   assert.match(html, /Public domain recording/);
   assert.match(html, /Final knowledge check/);
