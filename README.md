@@ -1,5 +1,7 @@
 # Compression Lab
 
+**Live app:** https://pedaltone.github.io/compression-lab/
+
 An interactive, browser-based lesson for learning audio compression by ear. It combines a real Web Audio compressor, original synthesized loops, a live transfer curve, gain-reduction feedback, guided experiments, and a final knowledge check.
 
 ## What is included
