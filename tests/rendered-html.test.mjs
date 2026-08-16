@@ -16,6 +16,9 @@ test("server-renders the Compression Lab learning journey", async () => {
   assert.match(html, /Compression Lab/);
   assert.match(html, /Make loud and soft/);
   assert.match(html, /Shape the dynamics/);
+  assert.match(html, /Beethoven’s Fifth/);
+  assert.match(html, /Public domain recording/);
   assert.match(html, /Final knowledge check/);
+  assert.doesNotMatch(html, /browser-synthesized|Vocal-like|Punchy drums/);
   assert.doesNotMatch(html, /codex-preview|SkeletonPreview|Your site is taking shape/);
 });

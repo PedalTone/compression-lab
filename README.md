@@ -2,11 +2,11 @@
 
 **Live app:** https://pedaltone.github.io/compression-lab/
 
-An interactive, browser-based lesson for learning audio compression by ear. It combines a real Web Audio compressor, original synthesized loops, a live transfer curve, gain-reduction feedback, guided experiments, and a final knowledge check.
+An interactive, browser-based lesson for learning audio compression by ear. It combines a real Web Audio compressor, a public-domain performance of Beethoven’s Fifth Symphony, a live transfer curve, gain-reduction feedback, guided experiments, and a final knowledge check.
 
 ## What is included
 
-- Drum, bass, and vocal-like procedural loops (no audio files or licenses)
+- Three guided listening passages from Beethoven’s Symphony No. 5, movement I
 - Threshold, ratio, attack, release, knee, and makeup gain controls
 - Live input/output waveforms and gain-reduction meter
 - Clearly marked unaffected and compression zones
@@ -14,6 +14,10 @@ An interactive, browser-based lesson for learning audio compression by ear. It c
 - Bypass for fair A/B listening
 - Responsive desktop, tablet, and phone layouts
 - No backend, accounts, or API keys
+
+## Recording
+
+The app includes Beethoven’s *Symphony No. 5 in C minor, Op. 67 — I. Allegro con brio*, performed by the Skidmore College Orchestra. Wikimedia Commons identifies both the composition and recording as public domain. The recording measures 16.5 LU of loudness range, making its contrast especially useful here. [Source and rights details](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_symphony_no._5_in_c_minor,_op._67_-_i._allegro_con_brio.ogg).
 
 ## Run locally
 
